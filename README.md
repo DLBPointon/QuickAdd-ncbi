@@ -6,10 +6,13 @@ as well as improve my personal "Cool stuff i come across in my job" wiki.
 My day job as a Bioinformatician, working in
 ToLA and alongside GRIT at Sanger on the [DTOL](https://www.darwintreeoflife.org/) project, involves exposure to a number of
 organisms which are just fascinating to read up on or in many cases to not read up on. 
-For these organisms, I make a note to find extra information that would be useful to know during the assembly/curation phases, this might include karyotype information, existence of B chromosomes, duplication rates and more. This script goes towards generating notes with essential taxonomic information, used in conjusction with Obsidian, can eventually generate a web of linked notes connecting various species, clades and/or phyla.
+For these organisms, I make a note to find extra information that would be useful to know during the assembly/curation phases, this might include karyotype information, existence of B chromosomes, duplication rates and more. This script goes towards generating notes with essential taxonomic information, used in conjunction with Obsidian, can eventually generate a web of linked notes connecting various species, clades and/or phyla.
 
 This script was heavily based on another QuickAdd script found
 [HERE](https://minimal.guide/Guides/Create+a+movie+database) written by [Christian B. B. Houmann](https://github.com/chhoumann)
+
+## Future Plans
+If there is enough interest I will create a full plugin to make use of the entirety of the NCBI API.
 
 ## Installation
 
